@@ -1,0 +1,5 @@
+### button 의 disable 조건
+
+button의 disable 조건에서 검사를 할 경우 fuction이 아니라 다른 함수로 검사를 한 후 값을 변경해 준 변수로 검사를 한다.
+
+button의 disable 조건은 1초에 60회 가량 검사를 진행 함 -> 성능 저하
